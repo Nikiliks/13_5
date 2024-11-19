@@ -6,7 +6,7 @@ from aiogram.types import  ReplyKeyboardMarkup, KeyboardButton
 import asyncio
 
 
-api = '8116383551:AAH-aVPSWzEX4WGy484XIzWNiotW5WBH9dk'
+api = '1'
 bot = Bot(token = api)
 dp = Dispatcher(bot, storage = MemoryStorage())
 
